@@ -50,3 +50,16 @@ git help
 ```bash
 git add .
 ```
+10. Commiting file
+
+```bash
+git commit -m "Adding my first review"
+```
+11. Upstreaming file
+```bash
+git push --set-upstream origin alterig/modify-files
+```
+12. Push file to github
+```bash
+git push
+```
