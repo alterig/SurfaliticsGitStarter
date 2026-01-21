@@ -13,15 +13,15 @@ git clone https://github.com/alterig/SurfaliticsGitStarter.git
 git status
 ```
 
-3. Create new branch
+3. Create new branch, в main обычно не работают
 
 ```bash
-git checkout -b alterig/modify-files
+git checkout -b igabe/modify-files
 ```
 3.1  Switch from main to my branch
 
 ```bash
-git checkout alterig/modify-files
+git checkout igabe/modify-files
 ```
 4. Download objects and refs from another repository
 ```bash
@@ -64,4 +64,4 @@ git push --set-upstream origin alterig/modify-files
 git push
 ```
 
-Create pull request for Code review on github
+Create pull request for Code review on github.
